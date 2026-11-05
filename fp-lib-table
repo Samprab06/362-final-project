@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "PiPod_Touchwheel") (type "KiCad") (uri "${KIPRJMOD}/PiPod_Touchwheel.pretty") (options "") (descr ""))
+)
