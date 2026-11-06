@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "TLV320DAC3100IRHBT") (type "KiCad") (uri "${KIPRJMOD}/libs/TLV320DAC3100IRHBT.kicad_sym") (options "") (descr ""))
+	(lib (name "PiPodParts") (type "KiCad") (uri "${KIPRJMOD}/libs/PiPodParts.kicad_sym") (options "") (descr ""))
+)
