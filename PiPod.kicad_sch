@@ -9432,6 +9432,12 @@
 		(uuid "9ff9dafb-6997-462b-bb2b-845f7eb83a13")
 	)
 	(junction
+		(at 172.72 34.29)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a4b91e8b-5d9a-4ff8-90a7-25fbff0a146f")
+	)
+	(junction
 		(at 58.42 66.04)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9466,6 +9472,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bc9077c3-5a04-405a-ab65-29d7f51fa06d")
+	)
+	(junction
+		(at 161.29 34.29)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c470e16b-12f2-4b86-8dfc-f6687cb8cf83")
 	)
 	(junction
 		(at 227.33 259.08)
@@ -9568,6 +9580,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f4fb6120-c697-4074-9146-41d735e7840c")
+	)
+	(junction
+		(at 172.72 45.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f505910d-16a9-4944-8fd0-b2285debde5e")
 	)
 	(junction
 		(at 285.75 36.83)
@@ -9827,6 +9845,16 @@
 	)
 	(wire
 		(pts
+			(xy 161.29 34.29) (xy 172.72 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "09739572-e08b-4e46-a412-9f799b3a175e")
+	)
+	(wire
+		(pts
 			(xy 48.26 129.54) (xy 50.8 129.54)
 		)
 		(stroke
@@ -9997,6 +10025,16 @@
 	)
 	(wire
 		(pts
+			(xy 161.29 45.72) (xy 172.72 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "187213a3-22df-45a6-bbe9-1814a744d5c6")
+	)
+	(wire
+		(pts
 			(xy 326.39 93.98) (xy 321.31 93.98)
 		)
 		(stroke
@@ -10097,6 +10135,16 @@
 	)
 	(wire
 		(pts
+			(xy 185.42 34.29) (xy 185.42 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2211c00d-39b3-4dec-bbd9-79994e52d6ca")
+	)
+	(wire
+		(pts
 			(xy 66.04 68.58) (xy 71.12 68.58)
 		)
 		(stroke
@@ -10114,6 +10162,16 @@
 			(type default)
 		)
 		(uuid "2281c4e6-1a97-470e-a59f-8f6d116b1415")
+	)
+	(wire
+		(pts
+			(xy 185.42 45.72) (xy 185.42 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "22d1b503-defc-4048-9e1c-78d0caad0d94")
 	)
 	(wire
 		(pts
@@ -10887,6 +10945,16 @@
 	)
 	(wire
 		(pts
+			(xy 172.72 34.29) (xy 172.72 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5585af6e-2056-4834-9866-802fe22dabee")
+	)
+	(wire
+		(pts
 			(xy 367.03 35.56) (xy 365.76 35.56)
 		)
 		(stroke
@@ -11107,6 +11175,16 @@
 	)
 	(wire
 		(pts
+			(xy 172.72 45.72) (xy 172.72 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6f11d3a1-3fc8-43f6-af9e-50e6109ef67a")
+	)
+	(wire
+		(pts
 			(xy 45.72 91.44) (xy 50.8 91.44)
 		)
 		(stroke
@@ -11294,6 +11372,16 @@
 			(type default)
 		)
 		(uuid "7ce5e807-a625-49e1-a5e7-8b2684c6ef69")
+	)
+	(wire
+		(pts
+			(xy 172.72 45.72) (xy 185.42 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d22e4e3-4ba2-4f12-b61b-ecb47eb21ffe")
 	)
 	(wire
 		(pts
@@ -11584,16 +11672,6 @@
 			(type default)
 		)
 		(uuid "9aded2f8-2dc3-4085-977c-0005829cd5b4")
-	)
-	(wire
-		(pts
-			(xy 279.4 238.76) (xy 279.4 240.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9baf76ca-aaec-476c-862b-4424dfcee1df")
 	)
 	(wire
 		(pts
@@ -12387,6 +12465,16 @@
 	)
 	(wire
 		(pts
+			(xy 172.72 34.29) (xy 185.42 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d9c83972-0cca-4b30-b511-28865f58cf2a")
+	)
+	(wire
+		(pts
 			(xy 161.29 45.72) (xy 161.29 48.26)
 		)
 		(stroke
@@ -12785,16 +12873,6 @@
 		)
 		(uuid "fd6360a7-4e0e-4bc5-bb4b-71e6ee54d174")
 	)
-	(label "I2C0_SDA"
-		(at 327.66 238.76 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "02a88621-cde7-40d7-a820-039a05155d00")
-	)
 	(label "LCD_RST"
 		(at 102.87 88.9 0)
 		(effects
@@ -12874,16 +12952,6 @@
 			(justify left bottom)
 		)
 		(uuid "17f16924-5eab-41df-83f4-a3cdc2c21d40")
-	)
-	(label "I2C1_SCL"
-		(at 391.16 238.76 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "19476c4f-8bf7-432a-acdd-ca6bb9d664b5")
 	)
 	(label "QSPI_SD3"
 		(at 49.53 121.92 180)
@@ -13345,16 +13413,6 @@
 		)
 		(uuid "8fc827ca-be86-4349-84f8-21ca2081f123")
 	)
-	(label "QSPI_CS"
-		(at 279.4 238.76 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "913475eb-092c-45c1-8714-8db6c453645a")
-	)
 	(label "QSPI_SD1"
 		(at 49.53 116.84 180)
 		(effects
@@ -13385,16 +13443,6 @@
 		)
 		(uuid "98365536-be87-4a2f-ab10-b7b0ed68110a")
 	)
-	(label "I2C0_SCL"
-		(at 345.44 238.76 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a4d4d83c-423a-4b1e-9c47-2578c4d0805e")
-	)
 	(label "SD_MOSI"
 		(at 325.12 104.14 0)
 		(effects
@@ -13404,16 +13452,6 @@
 			(justify left bottom)
 		)
 		(uuid "a54ad020-c590-47f8-b3ab-d36413d485f2")
-	)
-	(label "I2C1_SDA"
-		(at 368.3 238.76 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "a7c4b1e4-03cd-4e34-b43f-4fdc9df91268")
 	)
 	(label "QSPI_SD1"
 		(at 38.1 256.54 180)
@@ -14909,7 +14947,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 270.51 280.67 0)
+		(at 278.13 271.78 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14920,7 +14958,7 @@
 		(fields_autoplaced yes)
 		(uuid "0f9ac8b0-0483-431d-92e9-5fe304cdcfb9")
 		(property "Reference" "H4"
-			(at 273.05 279.3999 0)
+			(at 280.67 270.5099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14931,7 +14969,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 273.05 281.9399 0)
+			(at 280.67 273.0499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14942,7 +14980,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
-			(at 270.51 280.67 0)
+			(at 278.13 271.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14953,7 +14991,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 270.51 280.67 0)
+			(at 278.13 271.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14964,7 +15002,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 270.51 280.67 0)
+			(at 278.13 271.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15544,6 +15582,87 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 185.42 39.37 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "1bdbfdc0-b44a-4914-9560-678f325242a3")
+		(property "Reference" "C43"
+			(at 188.341 38.2016 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 188.341 40.513 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 186.3852 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 185.42 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 185.42 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "11f8a738-c155-4592-8b04-11e7c7c6a5d8")
+		)
+		(pin "2"
+			(uuid "7aaf07fa-650f-48c6-9e6a-e6c71856d4ce")
+		)
+		(instances
+			(project "PiPod"
+				(path "/237e52e3-ae6b-4cf7-89b7-b1f52298ed71"
+					(reference "C43")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "pipod:ABM8-272-T3_C20625731")
 		(at 109.22 251.46 0)
 		(unit 1)
@@ -16062,7 +16181,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 270.51 270.51 0)
+		(at 278.13 261.62 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -16073,7 +16192,7 @@
 		(fields_autoplaced yes)
 		(uuid "298c1e4c-2b9f-4fb3-9e05-4be4b72f8c38")
 		(property "Reference" "H2"
-			(at 273.05 269.2399 0)
+			(at 280.67 260.3499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16084,7 +16203,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 273.05 271.7799 0)
+			(at 280.67 262.8899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16095,7 +16214,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
-			(at 270.51 270.51 0)
+			(at 278.13 261.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16106,7 +16225,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 270.51 270.51 0)
+			(at 278.13 261.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16117,7 +16236,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 270.51 270.51 0)
+			(at 278.13 261.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16286,161 +16405,6 @@
 			(project "PiPod"
 				(path "/237e52e3-ae6b-4cf7-89b7-b1f52298ed71"
 					(reference "#PWR029")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 280.67 250.19 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2e1dd404-8f7c-4def-9fa2-50f4787f5e5a")
-		(property "Reference" "H5"
-			(at 283.21 248.9199 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole"
-			(at 283.21 251.4599 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
-			(at 280.67 250.19 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 280.67 250.19 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Mounting Hole without connection"
-			(at 280.67 250.19 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(instances
-			(project "PiPod"
-				(path "/237e52e3-ae6b-4cf7-89b7-b1f52298ed71"
-					(reference "H5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 327.66 238.76 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2ea8a6d6-1847-4151-82b0-faca091d9904")
-		(property "Reference" "I2C0SDA1"
-			(at 331.47 240.7919 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 331.47 243.3319 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 322.58 238.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 322.58 238.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 327.66 238.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "b42cdd21-7dd9-43c3-b151-9376d7f2e5e7")
-		)
-		(instances
-			(project "PiPod"
-				(path "/237e52e3-ae6b-4cf7-89b7-b1f52298ed71"
-					(reference "I2C0SDA1")
 					(unit 1)
 				)
 			)
@@ -17492,6 +17456,87 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 172.72 39.37 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "42d25dcc-d8d1-45d4-86eb-e0a1a1ad616d")
+		(property "Reference" "C25"
+			(at 175.641 38.2016 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 175.641 40.513 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 173.6852 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.72 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 172.72 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "cdce1802-b39f-4595-a498-5ade25dcc7c1")
+		)
+		(pin "2"
+			(uuid "a7d2fd02-554c-48a2-98bb-0d85c5c542be")
+		)
+		(instances
+			(project "PiPod"
+				(path "/237e52e3-ae6b-4cf7-89b7-b1f52298ed71"
+					(reference "C25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Small_US")
 		(at 35.56 241.3 180)
 		(unit 1)
@@ -17565,82 +17610,6 @@
 			(project "PiPod"
 				(path "/237e52e3-ae6b-4cf7-89b7-b1f52298ed71"
 					(reference "R16")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 280.67 260.35 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "454c85e2-02b8-4420-a835-68fdaef449f4")
-		(property "Reference" "H7"
-			(at 283.21 259.0799 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole"
-			(at 283.21 261.6199 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
-			(at 280.67 260.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 280.67 260.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Mounting Hole without connection"
-			(at 280.67 260.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(instances
-			(project "PiPod"
-				(path "/237e52e3-ae6b-4cf7-89b7-b1f52298ed71"
-					(reference "H7")
 					(unit 1)
 				)
 			)
@@ -18577,82 +18546,6 @@
 			(project "PiPod"
 				(path "/237e52e3-ae6b-4cf7-89b7-b1f52298ed71"
 					(reference "#PWR023")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 280.67 255.27 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "541d1f22-a15a-4a21-86ce-ac2d233da9fe")
-		(property "Reference" "H6"
-			(at 283.21 253.9999 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole"
-			(at 283.21 256.5399 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
-			(at 280.67 255.27 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 280.67 255.27 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Mounting Hole without connection"
-			(at 280.67 255.27 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(instances
-			(project "PiPod"
-				(path "/237e52e3-ae6b-4cf7-89b7-b1f52298ed71"
-					(reference "H6")
 					(unit 1)
 				)
 			)
@@ -21476,7 +21369,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 270.51 265.43 0)
+		(at 278.13 256.54 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -21487,7 +21380,7 @@
 		(fields_autoplaced yes)
 		(uuid "831f2574-be1b-4c60-95a3-30825fa41fcf")
 		(property "Reference" "H1"
-			(at 273.05 264.1599 0)
+			(at 280.67 255.2699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21498,7 +21391,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 273.05 266.6999 0)
+			(at 280.67 257.8099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21509,7 +21402,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
-			(at 270.51 265.43 0)
+			(at 278.13 256.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21520,7 +21413,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 270.51 265.43 0)
+			(at 278.13 256.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21531,7 +21424,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 270.51 265.43 0)
+			(at 278.13 256.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21872,85 +21765,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 391.16 238.76 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "87329e5e-48f9-4081-9ac7-e0a5cfbb74a1")
-		(property "Reference" "I2C1SCL1"
-			(at 394.97 240.7919 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 394.97 243.3319 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 386.08 238.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 386.08 238.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 391.16 238.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "ffb5bad8-83de-45fd-a8e0-9a71a8f383de")
-		)
-		(instances
-			(project "PiPod"
-				(path "/237e52e3-ae6b-4cf7-89b7-b1f52298ed71"
-					(reference "I2C1SCL1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 353.06 177.8 0)
 		(unit 1)
@@ -22242,85 +22056,6 @@
 			(project "PiPod"
 				(path "/237e52e3-ae6b-4cf7-89b7-b1f52298ed71"
 					(reference "U9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 368.3 238.76 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8bebace0-2279-4e82-aa59-7baca34d1379")
-		(property "Reference" "I2C1SDA1"
-			(at 372.11 240.7919 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 372.11 243.3319 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 363.22 238.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 363.22 238.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 368.3 238.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "7170ae60-dbe2-4c50-8187-a0efda8db625")
-		)
-		(instances
-			(project "PiPod"
-				(path "/237e52e3-ae6b-4cf7-89b7-b1f52298ed71"
-					(reference "I2C1SDA1")
 					(unit 1)
 				)
 			)
@@ -23723,85 +23458,6 @@
 			(project "PiPod"
 				(path "/237e52e3-ae6b-4cf7-89b7-b1f52298ed71"
 					(reference "J8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 345.44 238.76 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9fbfc032-9a02-4fd0-b0a6-d7825630c3e4")
-		(property "Reference" "I2C0SCL1"
-			(at 349.25 240.7919 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 349.25 243.3319 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 340.36 238.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 340.36 238.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 345.44 238.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "b4e486d8-a26e-4161-b816-a986206ca15e")
-		)
-		(instances
-			(project "PiPod"
-				(path "/237e52e3-ae6b-4cf7-89b7-b1f52298ed71"
-					(reference "I2C0SCL1")
 					(unit 1)
 				)
 			)
@@ -25563,7 +25219,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 270.51 275.59 0)
+		(at 278.13 266.7 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -25574,7 +25230,7 @@
 		(fields_autoplaced yes)
 		(uuid "bf6d2099-188e-4b6c-8e2e-396413f21fe5")
 		(property "Reference" "H3"
-			(at 273.05 274.3199 0)
+			(at 280.67 265.4299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25585,7 +25241,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 273.05 276.8599 0)
+			(at 280.67 267.9699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25596,7 +25252,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
-			(at 270.51 275.59 0)
+			(at 278.13 266.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25607,7 +25263,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 270.51 275.59 0)
+			(at 278.13 266.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25618,7 +25274,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 270.51 275.59 0)
+			(at 278.13 266.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29316,161 +28972,6 @@
 			(project "PiPod"
 				(path "/237e52e3-ae6b-4cf7-89b7-b1f52298ed71"
 					(reference "U8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 299.72 250.19 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e998c66e-809e-4a98-b264-3303719bd254")
-		(property "Reference" "H8"
-			(at 302.26 248.9199 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole"
-			(at 302.26 251.4599 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
-			(at 299.72 250.19 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 299.72 250.19 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Mounting Hole without connection"
-			(at 299.72 250.19 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(instances
-			(project "PiPod"
-				(path "/237e52e3-ae6b-4cf7-89b7-b1f52298ed71"
-					(reference "H8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 279.4 240.03 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ecb5328f-e1d4-4316-8a94-ac60d2eba12b")
-		(property "Reference" "TP7"
-			(at 283.21 242.0619 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 283.21 244.6019 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 274.32 240.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 274.32 240.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 279.4 240.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "b59ccc47-a635-4283-bfc2-7937f3f75b0a")
-		)
-		(instances
-			(project "PiPod"
-				(path "/237e52e3-ae6b-4cf7-89b7-b1f52298ed71"
-					(reference "TP7")
 					(unit 1)
 				)
 			)
