@@ -648,7 +648,7 @@
         "uuid": "237e52e3-ae6b-4cf7-89b7-b1f52298ed71"
       }
     ],
-    "used_designators": "U10,I2C0SDA1,#FLG5-6,I2C0SCL1,TP1-9,#PWR91-94",
+    "used_designators": "H1-8,I2C0SCL1,I2C0SDA1,I2C1SDA1,I2C1SCL1",
     "variants": []
   },
   "sheets": [
